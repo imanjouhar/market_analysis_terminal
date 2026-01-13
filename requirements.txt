@@ -1,0 +1,10 @@
+scrapy
+pandas
+tables
+itemadapter
+nltk
+schedule
+streamlit
+plotly
+h5py
+requests
